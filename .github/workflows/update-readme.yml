@@ -26,7 +26,17 @@ jobs:
       - name: Commit and push if README.md changed
         run: |
           git add README.md
-          git diff --cached --quiet || git commit -m "Automated update: Insert problems.md into README.md"
+          git diff --cached --quiet || git commit -m "Automated update: Insert problem.md into README.md"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push if problems.md changed
+        run: |
+          git add problems.md
+          git diff --cached --quiet || git commit -m "Automated update: Update problems.md"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
