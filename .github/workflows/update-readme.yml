@@ -1,0 +1,32 @@
+name: Update README with problem.md
+
+on:
+  push:
+    paths:
+      - "problem.md"
+      - "README.header.md"
+      - "README.footer.md"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Run concat script
+        run: bash concat-readme.sh
+
+      - name: Commit and push if README.md changed
+        run: |
+          git add README.md
+          git diff --cached --quiet || git commit -m "Automated update: Insert problem.md into README.md"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
