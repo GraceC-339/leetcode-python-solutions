@@ -6,7 +6,7 @@ if [ -f README.header.md ]; then
     cat README.header.md > README.md
 fi
 
-# Always include problem.md
+# Always include problems.md
 cat problems.md >> README.md
 
 # If footer exists, include it

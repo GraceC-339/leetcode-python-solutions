@@ -1,9 +1,9 @@
-name: Update README with problem.md
+name: Update README with problems.md
 
 on:
   push:
     paths:
-      - "problem.md"
+      - "problems.md"
       - "README.header.md"
       - "README.footer.md"
 
@@ -26,7 +26,7 @@ jobs:
       - name: Commit and push if README.md changed
         run: |
           git add README.md
-          git diff --cached --quiet || git commit -m "Automated update: Insert problem.md into README.md"
+          git diff --cached --quiet || git commit -m "Automated update: Insert problems.md into README.md"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
