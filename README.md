@@ -7,6 +7,9 @@ This repository contains my solutions to various LeetCode problems, written in P
 | 24/07/25 | 150 | Evaluate Reverse Polish Notation | [RPN.py](solutions/RPN.py)             | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |
 | 04/09/25 | 704 | Binary Search | [binary_search.py](solutions/binary_search.py)             | [LeetCode](https://leetcode.com/problems/binary-search/description/) |
 | 05/09/25 | 27 | Remove Element | [remove_element.py](solutions/remove_element.py)             | [LeetCode](https://leetcode.com/problems/remove-element/description/) |
+| 05/09/25 | 977 | Squares of a Sorted Array | [squares_of_sorted_array.py](solutions/squares_of_sorted_array.py)             | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |
+| 05/09/25 | 209 | Minimum Size Subarray Sum | [min_size_subarray_sum.py](solutions/min_size_subarray_sum.py)             | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |
+
 
 
 
