@@ -5,7 +5,11 @@ This repository contains my solutions to various LeetCode problems, written in P
 | -------- | --- | -------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------------- |
 | 18/07/25 | 155 | Min Stack                        | [min_stack.py](solutions/min_stack.py) | [LeetCode](https://leetcode.com/problems/min-stack/description/)                        |
 | 24/07/25 | 150 | Evaluate Reverse Polish Notation | [RPN.py](solutions/RPN.py)             | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |
-| 24/07/25 | 150 | Test 3                         | [RPN.py](solutions/RPN.py)             | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |
+| 04/09/25 | 704 | Binary Search | [binary_search.py](solutions/binary_search.py)             | [LeetCode](https://leetcode.com/problems/binary-search/description/) |
+| 05/09/25 | 27 | Remove Element | [remove_element.py](solutions/remove_element.py)             | [LeetCode](https://leetcode.com/problems/remove-element/description/) |
+
+
+
 ## Structure
 
 - `solutions/` – Contains Python files, one per problem.
