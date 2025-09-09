@@ -14,6 +14,7 @@ This repository contains my solutions to various LeetCode problems, written in P
 | 08/09/25 | 707 | Design Singly Linked List | [design_singly_linked_list.py](solutions/design_singly_linked_list.py)             | [LeetCode](https://leetcode.com/problems/design-linked-list/description/) |
 | 09/09/25 | 24 | Swap Nodes in Pairs | [swap_nodes_in_pairs.py](solutions/swap_nodes_in_pairs.py)             | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) |
 | 09/09/25 | 19 | Remove Nth Node From End of List | [remove_nth_node_from_end_of_list.py](solutions/remove_nth_node_from_end_of_list.py)             | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
+| 09/09/25 | 160 | Intersection of Two Linked Lists | [intersection_of_two_linked_lists.py](solutions/intersection_of_two_linked_lists.py)             | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 
 
 
