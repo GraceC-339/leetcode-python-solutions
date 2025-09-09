@@ -13,6 +13,7 @@ This repository contains my solutions to various LeetCode problems, written in P
 | 06/09/25 | 203 | Remove Linked List Elements | [remove_linked_list_elements.py](solutions/remove_linked_list_elements.py)             | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/description/) |
 | 08/09/25 | 707 | Design Singly Linked List | [design_singly_linked_list.py](solutions/design_singly_linked_list.py)             | [LeetCode](https://leetcode.com/problems/design-linked-list/description/) |
 | 09/09/25 | 24 | Swap Nodes in Pairs | [swap_nodes_in_pairs.py](solutions/swap_nodes_in_pairs.py)             | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) |
+| 09/09/25 | 19 | Remove Nth Node From End of List | [remove_nth_node_from_end_of_list.py](solutions/remove_nth_node_from_end_of_list.py)             | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 
 
 
