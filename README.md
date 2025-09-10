@@ -16,6 +16,7 @@ This repository contains my solutions to various LeetCode problems, written in P
 | 09/09/25 | 19 | Remove Nth Node From End of List | [remove_nth_node_from_end_of_list.py](solutions/remove_nth_node_from_end_of_list.py)             | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 | 09/09/25 | 160 | Intersection of Two Linked Lists | [intersection_of_two_linked_lists.py](solutions/intersection_of_two_linked_lists.py)             | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 | 10/09/25 | 242 | Valid Anagram | [valid_anagram.py](solutions/valid_anagram.py)             | [LeetCode](https://leetcode.com/problems/valid-anagram/) |
+| 10/09/25 | 349 | Intersection of Two Arrays | [intersection_of_two_arrays.py](solutions/intersection_of_two_arrays.py)             | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) |
 
 
 
