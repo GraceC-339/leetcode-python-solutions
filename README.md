@@ -19,6 +19,9 @@ This repository contains my solutions to various LeetCode problems, written in P
 | 10/09/25 | 349 | Intersection of Two Arrays | [intersection_of_two_arrays.py](solutions/intersection_of_two_arrays.py) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) |
 | 10/09/25 | 202 | Happy Number | [happy_number.py](solutions/happy_number.py) | [LeetCode](https://leetcode.com/problems/happy-number/) |
 | 10/09/25 | 1 | Two Sum | [two_sum.py](solutions/two_sum.py) | [LeetCode](https://leetcode.com/problems/two-sum/) |
+| 11/09/25 | 454 | 4Sum II | [4sumii.py](solutions/4sumii.py) | [LeetCode](https://leetcode.com/problems/4sum-ii/) |
+| 11/09/25 | 383 | Ransom Note | [ransom_note.py](solutions/ransom_note.py) | [LeetCode](https://leetcode.com/problems/ransom-note/) |
+| 11/09/25 | 15 | 3Sum | [3sum.py](solutions/3sum.py) | [LeetCode](https://leetcode.com/problems/3sum/) |
 
 ## Structure
 
