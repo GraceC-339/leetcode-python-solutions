@@ -22,6 +22,8 @@ This repository contains my solutions to various LeetCode problems, written in P
 | 11/09/25 | 454 | 4Sum II | [4sumii.py](solutions/4sumii.py) | [LeetCode](https://leetcode.com/problems/4sum-ii/) |
 | 11/09/25 | 383 | Ransom Note | [ransom_note.py](solutions/ransom_note.py) | [LeetCode](https://leetcode.com/problems/ransom-note/) |
 | 11/09/25 | 15 | 3Sum | [3sum.py](solutions/3sum.py) | [LeetCode](https://leetcode.com/problems/3sum/) |
+| 17/09/25 | 151 | Reverse Words in a String | [reverse_words_in_string.py](solutions/reverse_words_in_string.py) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) |
+| 17/09/25 | 232 | Implement Queue using Stacks | [implement_queue_using_stacks.py](solutions/implement_queue_using_stacks.py) | [LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/) |
 
 ## Structure
 
