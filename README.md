@@ -27,6 +27,8 @@ This repository contains my solutions to various LeetCode problems, written in P
 | 17/09/25 | 225 | Implement Stack using Queues | [implement_stack_using_queues.py](solutions/implement_stack_using_queues.py) | [LeetCode](https://leetcode.com/problems/implement-stack-using-queues/) |
 | 17/09/25 | 1047 | Remove All Adjacent Duplicates In String | [remove_all_adjacent_duplicates_in_string.py](solutions/remove_all_adjacent_duplicates_in_string.py) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |
 | 17/09/25 | 20 | Valid Parentheses | [valid_parentheses.py](solutions/valid_parentheses.py) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) |
+| 23/09/25 | 150 | Reverse Polish Notation | [evaluate_reverse_polish_notation.py](solutions/evaluate_reverse_polish_notation.py) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| 23/09/25 | 347 | Top K Frequent Elements | [top_k_frequent_elements.py](solutions/top_k_frequent_elements.py) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) |
 
 ## Structure
 
