@@ -32,6 +32,7 @@ This repository contains my solutions to various LeetCode problems, written in P
 | 30/09/25 | 739 | Daily Temperatures | [daily_temperature.py](solutions/daily_temperatures.py) | [LeetCode](https://leetcode.com/problems/daily-temperatures/) |
 | 30/09/25 | 853 | Car Fleet | [car_fleet.py](solutions/car_fleet.py) | [LeetCode](https://leetcode.com/problems/car-fleet/) |
 | 30/09/25 | 84 | Largest Rectangle in Histogram | [largest_rectangle_in_histogram.py](solutions/largest_rectangle_in_histogram.py) | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
+| 13/10/25 | 875 | Koko Eating Bananas | [koko_eating_bananas.py](solutions/koko_eating_bananas.py) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) |
 
 ## Structure
 
