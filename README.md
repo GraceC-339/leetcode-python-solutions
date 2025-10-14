@@ -34,7 +34,7 @@ This repository contains my solutions to various LeetCode problems, written in P
 | 30/09/25 | 84 | Largest Rectangle in Histogram | [largest_rectangle_in_histogram.py](solutions/largest_rectangle_in_histogram.py) | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
 | 13/10/25 | 875 | Koko Eating Bananas | [koko_eating_bananas.py](solutions/koko_eating_bananas.py) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) |
 | 14/10/25 | 153 | Find Minimum in Rotated Sorted Array | [find_minimum_in_rotated_sorted_array.py](solutions/find_minimum_in_rotated_sorted_array.py) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
-| 14/10/25 | 33 | Search in Rotated Sorted Array | [search_in_rotated_array.py](solutions/search_in_rotated_array.py) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| 14/10/25 | 33 | Search in Rotated Sorted Array | [search_in_sorted_rotated_array.py](solutions/search_in_sorted_rotated_array.py) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 
 ## Structure
 
