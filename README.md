@@ -35,7 +35,9 @@ This repository contains my solutions to various LeetCode problems, written in P
 | 13/10/25 | 875 | Koko Eating Bananas | [koko_eating_bananas.py](solutions/koko_eating_bananas.py) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) |
 | 14/10/25 | 153 | Find Minimum in Rotated Sorted Array | [find_minimum_in_rotated_sorted_array.py](solutions/find_minimum_in_rotated_sorted_array.py) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 | 14/10/25 | 33 | Search in Rotated Sorted Array | [search_in_sorted_rotated_array.py](solutions/search_in_sorted_rotated_array.py) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
-
+| 17/10/25 | 981 | Time Based Key-Value Store | [time_based_key_value_store.py](solutions/time_based_key_value_store.py) | [LeetCode](https://leetcode.com/problems/time-based-key-value-store/description/) |
+| 17/10/25 | 4 | Median of Two Sorted Arrays | [median_of_two_sorted_arrays.py](solutions/median_of_two_sorted_arrays.py) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |
+| 17/10/25 | 3 | Longest Substring Without Repeating Characters | [longest_substring_without_repeating_characters.py](solutions/longest_substring_without_repeating_characters.py) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 ## Structure
 
 - `solutions/` – Contains Python files, one per problem.
